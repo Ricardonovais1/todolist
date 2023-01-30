@@ -1,6 +1,6 @@
 import React from 'react'
-import "./styles.css";
 import { useState } from 'react';
+import "./styles.css";
 import propTypes from 'prop-types';
 
 
